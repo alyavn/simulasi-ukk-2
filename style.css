@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    width: 40%;
+    height: 50%;
+    background-color: rgb(67, 112, 180);
+    padding: 10px;
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+h2, #formBalok {
+    text-align: center;
+    color: white;
+}
+#formBalok input {
+    width: 70%;
+    padding: 9px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    border: none;
+}
+#formBalok button {
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 9px;
+    border: none;
+    background-color: thistle;
+    font-weight: bold;
+}
+#container {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    border-bottom: none;
+    margin-bottom: 7%;
+}
